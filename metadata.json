@@ -1,0 +1,6 @@
+{
+  "name": "Ar-Raheeq",
+  "description": "Ar-Raheeq Al-Makhtum (The Sealed Nectar) Seerat-un-Nabi ﷺ in Roman Urdu with Arabic scripture, English toggle, Night Mode, and delightful mobile reader experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
